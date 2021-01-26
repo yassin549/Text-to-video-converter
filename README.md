@@ -58,3 +58,6 @@ Once the script is run, the video will be saved as `text_to_video.avi` in the sa
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Contact
+For any kind of issue related to project, feel free to reach out at officialyassinkhoualid@gmail.com
+
